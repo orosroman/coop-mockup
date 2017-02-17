@@ -1,0 +1,15 @@
+.navbar {
+	margin-bottom: 20px;
+}
+
+.navbar-collapse button:first-of-type {
+	margin-right: 10px;
+}
+
+.card img {
+	width: 150px;
+}
+
+.card {
+	margin-bottom: 15px;
+}
